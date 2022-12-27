@@ -1,6 +1,6 @@
 ![Design preview for Analog Clock](./images/screenshot.PNG)
 
-# Analog-clock
+# New Year Countdown
 
 During my learning journey of html, css and javascript I decided to practice My skills on a simple new year countdown with time I'd make itn to loop at every year show. So this is it. You can make your suggestions too. Thank you
 
